@@ -1,11 +1,11 @@
 # Site settings
-title: Toe Beans Art 
+title: Kayla's online Portfolio
 email: kayliu011@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Kayla's Art Portfolio"
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+meta_author: Liu Kayla
 
 # Google webmaster tools
 google_verify:
@@ -52,8 +52,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Fremont California
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
