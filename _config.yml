@@ -34,11 +34,15 @@ color:
 footer:
   copyright: Kayla Liu
   location: Location
+  credits: Credits
 
 
-# Postal address (add as many lines as necessary)
+
 address:
   - line: Fremont California
+  - line: United State of America
+  
+credits: 'Made with <a href="https://jekyllrb.com">Jekyll</a> on <a href="https://pages.github.com/">Github Pages</a>'
 
 # Build settings
 markdown: kramdown
